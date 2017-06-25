@@ -32,7 +32,7 @@ class StudentController extends Controller
     	// $student->save();
     	// $student2 = Student::find(1);
     	
-    	//删除数据
+    	// 删除数据
     	// $student = Student::find(2);
     	// $student->delete();
     }
